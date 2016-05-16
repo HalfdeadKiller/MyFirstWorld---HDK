@@ -1,0 +1,43 @@
+"a" = (/turf/floor,/area/test)
+"b" = (/obj/item/torch,/turf/floor,/area/test)
+"c" = (/obj/structure/number_thing,/turf/floor,/area/test)
+"d" = (/turf/wall,/area/test)
+"e" = (/turf/start,/area/test)
+"f" = (/obj/spawnpoints/default,/turf/floor,/area/test)
+"g" = (/obj/clothing/vest,/turf/floor,/area/test)
+"h" = (/mob/npc,/turf/floor,/area/test)
+"i" = (/mob/npc/bonk,/turf/floor,/area/test)
+"j" = (/mob/npc/fronk,/turf/floor,/area/test)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaacaaaaaaaaaaaadaaaaaaaaaaaa
+aaaabeaaabaaadaaadaaaaaaaaaaaa
+aaaaaaaaaaaaadaaadaaaaaaaaaaaa
+aaaafaaagaaaadaaadaaaaaaaaaaaa
+aaaaaahaaaaaadaaadaaaaaaaaaaaa
+aabaaaaaijaaadaaadaaaaaaaaaaaa
+aaaaaaaaaaaaadaaadaaaaaaaaaaaa
+aaaaaaaaaaaaadaaadaaaaaaaaaaaa
+aaaaaaaaaaaaadaaadaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaadaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaadaaaaaaaaaaaa
+aaaaaddaddddaddaadddddaaaaaaaa
+aaaaaddaddddaddaaaaaadaaaaaaaa
+aaaaaddaddddaddaadaaadaaaaaaaa
+aaaaaddaaaaaaddaadaaadaaaaaaaa
+aaaaaddddddddddaadaaadaaaaaaaa
+aaaaaddddddddddaadaaadaaaaaaaa
+aaaaaaaaaaaaaaaaadaaadaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

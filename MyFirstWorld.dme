@@ -1,0 +1,46 @@
+// DM Environment file for MyFirstWorld.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "icons/mob"
+#define FILE_DIR "icons/mob/clothing"
+#define FILE_DIR "icons/mob/NPC"
+#define FILE_DIR "icons/objects"
+#define FILE_DIR "icons/objects/items"
+#define FILE_DIR "icons/objects/machinery"
+#define FILE_DIR "icons/objects/spawnpoints"
+#define FILE_DIR "icons/objects/structures"
+#define FILE_DIR "icons/turf"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "defaults.dm"
+#include "code\defines.dm"
+#include "code\globals.dm"
+#include "code\areas\area.dm"
+#include "code\mob\clothing\vest.dm"
+#include "code\modules\lighting\lighting_system.dm"
+#include "code\modules\mob\inventory.dm"
+#include "code\modules\mob\login.dm"
+#include "code\modules\mob\mob.dm"
+#include "code\modules\mob\movement.dm"
+#include "code\modules\mob\variables.dm"
+#include "code\modules\mob\npc\npc_test.dm"
+#include "code\objects\lamp.dm"
+#include "code\objects\pick_up.dm"
+#include "code\objects\items\torch.dm"
+#include "code\objects\spawnpoints\defaultstart.dm"
+#include "code\objects\structures\number_thing.dm"
+#include "code\turfs\turfs.dm"
+#include "maps\Maze map.dmm"
+// END_INCLUDE
+

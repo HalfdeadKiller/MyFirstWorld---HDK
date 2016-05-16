@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1463431657
+DIR: code code\areas code\mob code\mob\clothing code\modules code\modules\lighting code\modules\mob code\modules\mob\npc code\objects code\objects\items code\objects\spawnpoints code\objects\structures code\turfs icons\mob icons\mob\clothing icons\mob\NPC icons\objects icons\objects\items icons\objects\machinery icons\objects\spawnpoints maps 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1341
+WINDOW: code\objects\items\torch.dm;code\modules\mob\mob.dm;code\modules\mob\login.dm;code\areas\area.dm;code\turfs\turfs.dm;defaults.dm;code\objects\pick_up.dm
+FILE: code\objects\pick_up.dm
+*/
+// END_INTERNALS
